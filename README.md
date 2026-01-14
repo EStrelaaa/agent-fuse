@@ -2,7 +2,7 @@
 
 A proof-of-concept showing how to use FUSE to expose arbitrary data (in this case, emails from a database) as a filesystem for an AI agent.
 
-Read the full writeup: [FUSE is all you need]([https://example.com/blog](https://jakobemmerling.de/posts/fuse-is-all-you-need/))
+Read the full writeup: [FUSE is all you need](https://jakobemmerling.de/posts/fuse-is-all-you-need/)
 
 ## What's in here
 
